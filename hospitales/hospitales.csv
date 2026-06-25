@@ -1,0 +1,7 @@
+﻿id;nombre_original;latitud;longitud;nombre_normalizado;tipo;pais;region;estado;municipio;parroquia_sector;direccion_referencial;telefono
+1;Hopital Ricardo Baquero Gonzalez;10,51337;-66,94249;Hospital Médico Quirúrgico Dr. Ricardo Baquero González;Hospital;Venezuela;Región Capital;Distrito Capital;Libertador;Catia / El Cristo;El Cristo, Caracas 1030;N/A
+2;Hospital Domingo Luciani (El Llanito);10,47129;-66,81042;Hospital Dr. Domingo Luciani;Hospital;Venezuela;Región Capital;Miranda;Sucre;El Llanito;Domingo Luciani, Caracas 1073;N/A
+3;Hospital Perez Carreño;10,480278;-66,953056;Hospital Dr. Miguel Pérez Carreño;Hospital;Venezuela;Región Capital;Distrito Capital;Libertador;La Yaguara / El Paraíso / El Pescozón;Calle La Guayanita, sector Bella Vista / La Yaguara, Caracas;N/A
+4;Hospital Universitario de Caracas;10,490278;-66,893889;Hospital Universitario de Caracas;Hospital universitario;Venezuela;Región Capital;Distrito Capital;Libertador;Los Chaguaramos / Ciudad Universitaria de Caracas;Avenida 21 de Noviembre, Ciudad Universitaria de Caracas, UCV;N/A
+5;Hospital Vargas de Caracas;10,51645;-66,91144;Hospital José María Vargas;Hospital universitario;Venezuela;Región Capital;Distrito Capital;Libertador;San José / Altagracia;Av. Norte, Caracas 1010;N/A
+6;JM DE LOS RIOS (HOSP DE NIÑOS);10,50696;-66,8996;Hospital de Niños J. M. de los Ríos;Hospital pediátrico;Venezuela;Región Capital;Distrito Capital;Libertador;San Bernardino;Av. Vollmer, Caracas 1010;N/A
