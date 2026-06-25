@@ -104,7 +104,7 @@ Antes de enviar cambios:
 
 ## Licencia
 
-Este repositorio se distribuye bajo la licencia que determine el proyecto. Se recomienda utilizar una licencia abierta para fomentar la reutilización y colaboración.
+Este repositorio se distribuye bajo una licencia GNU de software libre, lo que garantiza que cualquier persona pueda usar, estudiar, modificar y compartir el código. Su propósito es fomentar la colaboración abierta y asegurar que todas las mejoras permanezcan accesibles para la comunidad.
 
 ## Descargo de responsabilidad
 
