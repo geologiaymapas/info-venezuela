@@ -25,10 +25,10 @@
 24;Distrito Sanitario N° 3;10,4969833;-66,9280377;;Hospital;Venezuela;Región Capital;;;;;
 25;Distrito Sanitario N° 4;10,459659;-66,9139481;;Hospital;Venezuela;Región Capital;;;;;
 26;Distrito Sanitario N° 7;10,4901031;-66,8088242;;Hospital;Venezuela;Región Capital;;;;;
-27;Hopital Ricardo Baquero Gonzalez;10,51337;-66,94249;Hospital Médico Quirúrgico Dr. Ricardo Baquero González;Hospital;Venezuela;Región Capital;Distrito Capital;Libertador;Catia / El Cristo;El Cristo, Caracas 1030;N/A
+27;Hopital Ricardo Baquero Gonzalez;10,51337;-66,94249;Hospital Médico Quirúrgico Dr, Ricardo Baquero González;Hospital;Venezuela;Región Capital;Distrito Capital;Libertador;Catia / El Cristo;El Cristo, Caracas 1030;N/A
 28;Hospital Cardiológico Infantil Latinoamericano;10,4675487;-66,9725441;;Hospital;Venezuela;Región Capital;;;;;
 29;Hospital de Niños J,M, de Los Ríos;10,5069625;-66,899604;;Hospital;Venezuela;Región Capital;;;;;
-30;Hospital Domingo Luciani (El Llanito);10,47129;-66,81042;Hospital Dr. Domingo Luciani;Hospital;Venezuela;Región Capital;Miranda;Sucre;El Llanito;Domingo Luciani, Caracas 1073;N/A
+30;Hospital Domingo Luciani (El Llanito);10,47129;-66,81042;Hospital Dr, Domingo Luciani;Hospital;Venezuela;Región Capital;Miranda;Sucre;El Llanito;Domingo Luciani, Caracas 1073;N/A
 31;Hospital Dr, Francisco A, Risquéz;10,5161274;-66,9054695;;Hospital;Venezuela;Región Capital;;;;;
 32;Hospital Jesús Yerena;10,5241821;-66,9301218;;Hospital;Venezuela;Región Capital;;;;;
 33;Hospital José Ignacio Baldó;10,4836768;-66,972906;;Hospital;Venezuela;Región Capital;;;;;
@@ -42,13 +42,13 @@
 41;Hospital Oncológico Padre Machado;10,4778138;-66,9180238;;Hospital;Venezuela;Región Capital;;;;;
 42;Hospital Ortopédico Infantil;10,5053642;-66,8918576;;Hospital;Venezuela;Región Capital;;;;;
 43;Hospital Pediátrico Julio Criollo Vivas;10,4770914;-66,9178218;;Hospital;Venezuela;Región Capital;;;;;
-44;Hospital Perez Carreño;10,480278;-66,953056;Hospital Dr. Miguel Pérez Carreño;Hospital;Venezuela;Región Capital;Distrito Capital;Libertador;La Yaguara / El Paraíso / El Pescozón;Calle La Guayanita, sector Bella Vista / La Yaguara, Caracas;N/A
+44;Hospital Perez Carreño;10,480278;-66,953056;Hospital Dr, Miguel Pérez Carreño;Hospital;Venezuela;Región Capital;Distrito Capital;Libertador;La Yaguara / El Paraíso / El Pescozón;Calle La Guayanita, sector Bella Vista / La Yaguara, Caracas;N/A
 45;Hospital Pérez de León;10,4777403;-66,8098326;;Hospital;Venezuela;Región Capital;;;;;
 46;Hospital Periférico de Coche;10,4411165;-66,9264898;;Hospital;Venezuela;Región Capital;;;;;
 47;Hospital Psiquiátrico de Caracas;10,5234149;-66,9301814;;Hospital;Venezuela;Región Capital;;;;;
 48;Hospital San Juan de Dios;10,4677342;-66,8651148;;Hospital;Venezuela;Región Capital;;;;;
 49;Hospital Universitario de Caracas;10,490278;-66,893889;Hospital Universitario de Caracas;Hospital universitario;Venezuela;Región Capital;Distrito Capital;Libertador;Los Chaguaramos / Ciudad Universitaria de Caracas;Avenida 21 de Noviembre, Ciudad Universitaria de Caracas, UCV;N/A
-50;Hospital Vargas de Caracas;10,51645;-66,91144;Hospital José María Vargas;Hospital universitario;Venezuela;Región Capital;Distrito Capital;Libertador;San José / Altagracia;Av. Norte, Caracas 1010;N/A
+50;Hospital Vargas de Caracas;10,51645;-66,91144;Hospital José María Vargas;Hospital universitario;Venezuela;Región Capital;Distrito Capital;Libertador;San José / Altagracia;Av, Norte, Caracas 1010;N/A
 51;Instituto Nacional de Geriatría;10,4351157;-66,9910655;;Hospital;Venezuela;Región Capital;;;;;
 52;IVSS Ambulatorio de Caricuao;10,4330954;-66,9628011;;Hospital;Venezuela;Región Capital;;;;;
 53;IVSS Ambulatorio Dr, Armando Castillo Plaza;10,4655951;-66,9804218;;Hospital;Venezuela;Región Capital;;;;;
@@ -61,7 +61,7 @@
 60;IVSS Hospital Pediátrico Dr, Elías Toro;10,5057543;-66,9469574;;Hospital;Venezuela;Región Capital;;;;;
 61;IVSS Los Dos Caminos;10,4967578;-66,8304883;;Hospital;Venezuela;Región Capital;;;;;
 62;IVSS Los Ruices;10,4821757;-66,8300996;;Hospital;Venezuela;Región Capital;;;;;
-63;JM DE LOS RIOS (HOSP DE NIÑOS);10,50696;-66,8996;Hospital de Niños J. M. de los Ríos;Hospital pediátrico;Venezuela;Región Capital;Distrito Capital;Libertador;San Bernardino;Av. Vollmer, Caracas 1010;N/A
+63;JM DE LOS RIOS (HOSP DE NIÑOS);10,50696;-66,8996;Hospital de Niños J, M, de los Ríos;Hospital pediátrico;Venezuela;Región Capital;Distrito Capital;Libertador;San Bernardino;Av, Vollmer, Caracas 1010;N/A
 64;Maternidad Concepción Palacios;10,4952295;-66,9315153;;Hospital;Venezuela;Región Capital;;;;;
 65;Maternidad Herrera Vega;10,4859159;-66,9757464;;Hospital;Venezuela;Región Capital;;;;;
 66;Maternidad Santa Ana;10,51531;-66,9031544;;Hospital;Venezuela;Región Capital;;;;;
@@ -83,3 +83,69 @@
 82;Módulo Salvador Allende;10,4816732;-66,8517197;;Hospital;Venezuela;Región Capital;;;;;
 83;Unidad Sanitaria del Sur;10,4758391;-66,9174671;;Hospital;Venezuela;Región Capital;;;;;
 84;Urológico San Román;10,4721027;-66,8557664;;Hospital;Venezuela;Región Capital;;;;;
+85;Sanidad (Padre Lazo);10,2285445;-67,3407386;;Hospital;Venezuela;Aragua;;;;;
+86;Maria de la Paz;10,2266185;-67,3267558;;Hospital;Venezuela;Aragua;;;;;
+87;Nueva Victoria;10,2244855;-67,3377394;;Hospital;Venezuela;Aragua;;;;;
+88;S/N;10,4041837;-67,2855308;;Hospital;Venezuela;Aragua;;;;;
+89;Maternidad La Floresta;10,2680477;-67,5878467;;Hospital;Venezuela;Aragua;;;;;
+90;Cruz Roja;10,2509093;-67,601277;;Hospital;Venezuela;Aragua;;;;;
+91;Módulo de El Castaño;10,1901831;-67,3672739;;Hospital;Venezuela;Aragua;;;;;
+92;medicatura de Primitivo de Jesùs;10,1835685;-67,3770071;;Hospital;Venezuela;Aragua;;;;;
+93;Ambulatorio de Paraparal;10,201018;-67,5820823;;Hospital;Venezuela;Aragua;;;;;
+94;Ambulatorio;10,5081901;-67,6062904;;Hospital;Venezuela;Aragua;;;;;
+95;Hospital de Los Samanes;10,2193974;-67,5930145;;Hospital;Venezuela;Aragua;;;;;
+96;Ambulatorio Los Grillitos;10,2855973;-67,6278248;;Hospital;Venezuela;Aragua;;;;;
+97;Módulo de Residencias Palo Negro;10,1481506;-67,5603249;;Hospital;Venezuela;Aragua;;;;;
+98;Seguro Social de Cagua;10,1540439;-67,4599121;;Hospital;Venezuela;Aragua;;;;;
+99;Módulo La Fundación;10,1715379;-67,4553414;;Hospital;Venezuela;Aragua;;;;;
+100;Módulo Tamboirito;10,1804078;-67,4460007;;Hospital;Venezuela;Aragua;;;;;
+101;Hospital Militar;10,2472476;-67,5738453;;Hospital;Venezuela;Aragua;;;;;
+102;Corposalud - Aragua;10,2711209;-67,5826641;;Hospital;Venezuela;Aragua;;;;;
+103;Modulo Yolanda Tovar de Luite;10,2317137;-67,3065049;;Hospital;Venezuela;Aragua;;;;;
+104;Módulo La Mora;10,2254012;-67,3110083;;Hospital;Venezuela;Aragua;;;;;
+105;Hospital José María Benítez;10,2328759;-67,3249586;;Hospital;Venezuela;Aragua;;;;;
+106;IVSS La Victoria;10,2326352;-67,3226235;;Hospital;Venezuela;Aragua;;;;;
+107;Ambulatorio del Norte;10,2685269;-67,5812697;;Hospital;Venezuela;Aragua;;;;;
+108;Hospital Carabaño Tosta;10,2429505;-67,5853202;;Hospital;Venezuela;Aragua;;;;;
+109;SRI;10,2143749;-67,5898365;;Hospital;Venezuela;Aragua;;;;;
+110;Instituto Policlínico Turmero;10,2275061;-67,4690311;;Hospital;Venezuela;Aragua;;;;;
+111;Ambulatorio;10,2278378;-67,4682256;;Hospital;Venezuela;Aragua;;;;;
+112;Hospítal del Mar;10,4886468;-67,7767018;;Hospital;Venezuela;Aragua;;;;;
+113;Seguro Social de La Ovallera;10,1711429;-67,5769115;;Hospital;Venezuela;Aragua;;;;;
+114;Hospital Dr, José Rangel;10,0371484;-67,4892198;;Hospital;Venezuela;Aragua;;;;;
+115;Medicatura de Zuata;10,1624027;-67,3955051;;Hospital;Venezuela;Aragua;;;;;
+116;Modulo de Barrio Adentro;10,1619618;-67,3949968;;Hospital;Venezuela;Aragua;;;;;
+117;Módulo;10,2739295;-67,6248888;;Hospital;Venezuela;Aragua;;;;;
+118;Cardiologico Maracay;10,2790399;-67,5834977;;Hospital;Venezuela;Aragua;;;;;
+119;Módulo Las Acacias;10,2321243;-67,5830403;;Hospital;Venezuela;Aragua;;;;;
+120;Seguro Social de El Limón;10,2890571;-67,626666;;Hospital;Venezuela;Aragua;;;;;
+121;Hospital Central de Maracay;10,2744913;-67,5895483;;Hospital;Venezuela;Aragua;;;;;
+122;Anticanceroso Maracay;10,2752752;-67,5876814;;Hospital;Venezuela;Aragua;;;;;
+123;Ambulatorio de Palo Negro;10,1667772;-67,5576543;;Hospital;Venezuela;Aragua;;;;;
+124;CDI Santa Ana;10,1657133;-67,5398012;;Hospital;Venezuela;Aragua;;;;;
+125;Barrio Adentro BAEL;10,1715864;-67,5741644;;Hospital;Venezuela;Aragua;;;;;
+126;Hospital de Cagua;10,1777159;-67,4513013;;Hospital;Venezuela;Aragua;;;;;
+127;Hospital Dr, Alfredo Machado;10,6001961;-67,0387244;;Hospital;Venezuela;La Guaira;;;;;
+128;Módulo de Guaracarumbo;10,5968026;-67,0137374;;Hospital;Venezuela;La Guaira;;;;;
+129;Ambulatorio Jacinto Plaza;10,5886849;-67,058316;;Hospital;Venezuela;La Guaira;;;;;
+130;Ambulatorio Pedro Cova;10,5842026;-67,0713628;;Hospital;Venezuela;La Guaira;;;;;
+131;Centro de Diagnóstico Integral;10,5981081;-66,9716662;;Hospital;Venezuela;La Guaira;;;;;
+132;Centro Oftalmológico de Vargas;10,5990693;-66,9838585;;Hospital;Venezuela;La Guaira;;;;;
+133;Ambulatorio Guaicamacuto;10,6049139;-66,9008943;;Hospital;Venezuela;La Guaira;;;;;
+134;Sala De Rehabilitación Integral Naiguatá (SRI);10,6213706;-66,7337589;;Hospital;Venezuela;La Guaira;;;;;
+135;Hospital de Emergencias de Naiguatá;10,6216081;-66,7384762;;Hospital;Venezuela;La Guaira;;;;;
+136;Hospital Dr, José María España;10,6198542;-66,3833251;;Hospital;Venezuela;La Guaira;;;;;
+137;Módulo de la Aduana Aérea;10,5977588;-66,985451;;Hospital;Venezuela;La Guaira;;;;;
+138;Hospital San José;10,595867;-66,957123;;Hospital;Venezuela;La Guaira;;;;;
+139;IVSS Hospital José María Vargas;10,6031058;-66,9217317;;Hospital;Venezuela;La Guaira;;;;;
+140;Hospital de Niños Excepcionales El Niño y El Mar;10,6065554;-67,0352985;;Hospital;Venezuela;La Guaira;;;;;
+141;CDI La Atlántida;10,6069341;-67,0366681;;Hospital;Venezuela;La Guaira;;;;;
+142;Hospital Naval Dr, Raúl Perdomo Hurtado;10,6011621;-67,0292647;;Hospital;Venezuela;La Guaira;;;;;
+143;Hospital Dr, Rafael Medina Jiménez Periférico de Pariata;10,5968922;-66,9611305;;Hospital;Venezuela;La Guaira;;;;;
+144;Módulo;10,5985845;-66,9488666;;Hospital;Venezuela;La Guaira;;;;;
+145;"Ambulatorio La Guaira ""La Sanidad""";10,6019432;-66,9306388;;Hospital;Venezuela;La Guaira;;;;;
+146;Centro Integral de Salud;10,6094094;-66,8853686;;Hospital;Venezuela;La Guaira;;;;;
+147;Hospital Materno Infantil Ana Teresa de Jesús Ponce;10,6060884;-66,8913061;;Hospital;Venezuela;La Guaira;;;;;
+148;Hospital Martín Vega;10,5881081;-67,0164558;;Hospital;Venezuela;La Guaira;;;;;
+149;CDI;10,5341684;-67,0350099;;Hospital;Venezuela;La Guaira;;;;;
+150;Hospital de Anare;10,6230484;-66,6525317;;Hospital;Venezuela;La Guaira;;;;;
