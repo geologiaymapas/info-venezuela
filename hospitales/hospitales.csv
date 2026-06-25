@@ -1,7 +1,85 @@
 ﻿id;nombre_original;latitud;longitud;nombre_normalizado;tipo;pais;region;estado;municipio;parroquia_sector;direccion_referencial;telefono
-1;Hopital Ricardo Baquero Gonzalez;10,51337;-66,94249;Hospital Médico Quirúrgico Dr. Ricardo Baquero González;Hospital;Venezuela;Región Capital;Distrito Capital;Libertador;Catia / El Cristo;El Cristo, Caracas 1030;N/A
-2;Hospital Domingo Luciani (El Llanito);10,47129;-66,81042;Hospital Dr. Domingo Luciani;Hospital;Venezuela;Región Capital;Miranda;Sucre;El Llanito;Domingo Luciani, Caracas 1073;N/A
-3;Hospital Perez Carreño;10,480278;-66,953056;Hospital Dr. Miguel Pérez Carreño;Hospital;Venezuela;Región Capital;Distrito Capital;Libertador;La Yaguara / El Paraíso / El Pescozón;Calle La Guayanita, sector Bella Vista / La Yaguara, Caracas;N/A
-4;Hospital Universitario de Caracas;10,490278;-66,893889;Hospital Universitario de Caracas;Hospital universitario;Venezuela;Región Capital;Distrito Capital;Libertador;Los Chaguaramos / Ciudad Universitaria de Caracas;Avenida 21 de Noviembre, Ciudad Universitaria de Caracas, UCV;N/A
-5;Hospital Vargas de Caracas;10,51645;-66,91144;Hospital José María Vargas;Hospital universitario;Venezuela;Región Capital;Distrito Capital;Libertador;San José / Altagracia;Av. Norte, Caracas 1010;N/A
-6;JM DE LOS RIOS (HOSP DE NIÑOS);10,50696;-66,8996;Hospital de Niños J. M. de los Ríos;Hospital pediátrico;Venezuela;Región Capital;Distrito Capital;Libertador;San Bernardino;Av. Vollmer, Caracas 1010;N/A
+1;Ambulatorio;10,4963763;-66,8728331;;Hospital;Venezuela;Región Capital;;;;;
+2;Ambulatorio Alfonzo López Porras;10,5285208;-66,9805499;;Hospital;Venezuela;Región Capital;;;;;
+3;Ambulatorio de Bello Campo;10,4924125;-66,8505105;;Hospital;Venezuela;Región Capital;;;;;
+4;Ambulatorio de El Hatillo;10,4210479;-66,8249516;;Hospital;Venezuela;Región Capital;;;;;
+5;Ambulatorio de La Gran Parada;10,4293353;-67,0099513;;Hospital;Venezuela;Región Capital;;;;;
+6;Ambulatorio Domingo Luciani;10,5210329;-66,9115828;;Hospital;Venezuela;Región Capital;;;;;
+7;Ambulatorio Dr, José María Vargas;10,4510029;-66,8622489;;Hospital;Venezuela;Región Capital;;;;;
+8;Ambulatorio Leopoldo Aguerrevere;10,460105;-66,9848919;;Hospital;Venezuela;Región Capital;;;;;
+9;Ambulatorio Monseñor de Castro;10,4983118;-66,9171244;;Hospital;Venezuela;Región Capital;;;;;
+10;Ambulatorio Pedro González Rincones;10,529567;-66,9465449;;Hospital;Venezuela;Región Capital;;;;;
+11;Ambulatorio Urbano Tipo II Dr, Francisco Perozo;10,4339551;-66,8750279;;Hospital;Venezuela;Región Capital;;;;;
+12;CDI William Lara;10,4850847;-66,739667;;Hospital;Venezuela;Región Capital;;;;;
+13;Centro Clínico Quirúrgico Virgen Milagrosa;10,5161898;-66,9441731;;Hospital;Venezuela;Región Capital;;;;;
+14;Centro Médico Docente La Trinidad;10,4311041;-66,85547;;Hospital;Venezuela;Región Capital;;;;;
+15;Centro Médico Loira;10,4811864;-66,9437777;;Hospital;Venezuela;Región Capital;;;;;
+16;Centro Nefrológico con + Salud;10,5095805;-66,9067079;;Hospital;Venezuela;Región Capital;;;;;
+17;Clínica Ávila;10,5041122;-66,8499854;;Hospital;Venezuela;Región Capital;;;;;
+18;Clínica Dispensario Padre Machado;10,4708681;-66,9535089;;Hospital;Venezuela;Región Capital;;;;;
+19;Clínica Leopoldo Aguerrevere;10,4497713;-66,8704257;;Hospital;Venezuela;Región Capital;;;;;
+20;Clínica Méndez Gimón;10,5042022;-66,8819341;;Hospital;Venezuela;Región Capital;;;;;
+21;Clínica Popular El Valle;10,4607685;-66,9127427;;Hospital;Venezuela;Región Capital;;;;;
+22;"Clínica Popular tipo 1 ""Dr, Carlos Diez del Ciervo""";10,4960043;-66,8553854;;Hospital;Venezuela;Región Capital;;;;;
+23;Distrito Sanitario N° 1;10,5159622;-66,9174725;;Hospital;Venezuela;Región Capital;;;;;
+24;Distrito Sanitario N° 3;10,4969833;-66,9280377;;Hospital;Venezuela;Región Capital;;;;;
+25;Distrito Sanitario N° 4;10,459659;-66,9139481;;Hospital;Venezuela;Región Capital;;;;;
+26;Distrito Sanitario N° 7;10,4901031;-66,8088242;;Hospital;Venezuela;Región Capital;;;;;
+27;Hopital Ricardo Baquero Gonzalez;10,51337;-66,94249;Hospital Médico Quirúrgico Dr. Ricardo Baquero González;Hospital;Venezuela;Región Capital;Distrito Capital;Libertador;Catia / El Cristo;El Cristo, Caracas 1030;N/A
+28;Hospital Cardiológico Infantil Latinoamericano;10,4675487;-66,9725441;;Hospital;Venezuela;Región Capital;;;;;
+29;Hospital de Niños J,M, de Los Ríos;10,5069625;-66,899604;;Hospital;Venezuela;Región Capital;;;;;
+30;Hospital Domingo Luciani (El Llanito);10,47129;-66,81042;Hospital Dr. Domingo Luciani;Hospital;Venezuela;Región Capital;Miranda;Sucre;El Llanito;Domingo Luciani, Caracas 1073;N/A
+31;Hospital Dr, Francisco A, Risquéz;10,5161274;-66,9054695;;Hospital;Venezuela;Región Capital;;;;;
+32;Hospital Jesús Yerena;10,5241821;-66,9301218;;Hospital;Venezuela;Región Capital;;;;;
+33;Hospital José Ignacio Baldó;10,4836768;-66,972906;;Hospital;Venezuela;Región Capital;;;;;
+34;Hospital José María Vargas;10,5164476;-66,9114389;;Hospital;Venezuela;Región Capital;;;;;
+35;"Hospital Materno Infantil del Este ""Joel Valen""";10,4808754;-66,8060926;;Hospital;Venezuela;Región Capital;;;;;
+36;Hospital Materno Infantil del Valle;10,4604246;-66,9142287;;Hospital;Venezuela;Región Capital;;;;;
+37;Hospital Materno Infantil Dr, Pastor Oropeza;10,4375628;-66,9902722;;Hospital;Venezuela;Región Capital;;;;;
+38;Hospital Militar Dr, Carlos Arvelo;10,4985332;-66,9390503;;Hospital;Venezuela;Región Capital;;;;;
+39;Hospital Militar Vicente Sálias Sanoja;10,4543647;-66,9055225;;Hospital;Venezuela;Región Capital;;;;;
+40;Hospital Oncológico Dr, Luis Razetti;10,519624;-66,9079217;;Hospital;Venezuela;Región Capital;;;;;
+41;Hospital Oncológico Padre Machado;10,4778138;-66,9180238;;Hospital;Venezuela;Región Capital;;;;;
+42;Hospital Ortopédico Infantil;10,5053642;-66,8918576;;Hospital;Venezuela;Región Capital;;;;;
+43;Hospital Pediátrico Julio Criollo Vivas;10,4770914;-66,9178218;;Hospital;Venezuela;Región Capital;;;;;
+44;Hospital Perez Carreño;10,480278;-66,953056;Hospital Dr. Miguel Pérez Carreño;Hospital;Venezuela;Región Capital;Distrito Capital;Libertador;La Yaguara / El Paraíso / El Pescozón;Calle La Guayanita, sector Bella Vista / La Yaguara, Caracas;N/A
+45;Hospital Pérez de León;10,4777403;-66,8098326;;Hospital;Venezuela;Región Capital;;;;;
+46;Hospital Periférico de Coche;10,4411165;-66,9264898;;Hospital;Venezuela;Región Capital;;;;;
+47;Hospital Psiquiátrico de Caracas;10,5234149;-66,9301814;;Hospital;Venezuela;Región Capital;;;;;
+48;Hospital San Juan de Dios;10,4677342;-66,8651148;;Hospital;Venezuela;Región Capital;;;;;
+49;Hospital Universitario de Caracas;10,490278;-66,893889;Hospital Universitario de Caracas;Hospital universitario;Venezuela;Región Capital;Distrito Capital;Libertador;Los Chaguaramos / Ciudad Universitaria de Caracas;Avenida 21 de Noviembre, Ciudad Universitaria de Caracas, UCV;N/A
+50;Hospital Vargas de Caracas;10,51645;-66,91144;Hospital José María Vargas;Hospital universitario;Venezuela;Región Capital;Distrito Capital;Libertador;San José / Altagracia;Av. Norte, Caracas 1010;N/A
+51;Instituto Nacional de Geriatría;10,4351157;-66,9910655;;Hospital;Venezuela;Región Capital;;;;;
+52;IVSS Ambulatorio de Caricuao;10,4330954;-66,9628011;;Hospital;Venezuela;Región Capital;;;;;
+53;IVSS Ambulatorio Dr, Armando Castillo Plaza;10,4655951;-66,9804218;;Hospital;Venezuela;Región Capital;;;;;
+54;IVSS Ambulatorio Dr, Dilio Sequera Peraza;10,5052121;-66,8943883;;Hospital;Venezuela;Región Capital;;;;;
+55;IVSS Ambulatorio Pedro Arreaza;10,5139924;-66,9329381;;Hospital;Venezuela;Región Capital;;;;;
+56;"IVSS Centro Ambulatorio ""José Gonzalez Navarro""";10,4371966;-66,8633228;;Hospital;Venezuela;Región Capital;;;;;
+57;IVSS Centro Nacional de Rehabilitación Dr, Alejandro Rhode;10,4811343;-66,9520477;;Hospital;Venezuela;Región Capital;;;;;
+58;IVSS Especialidades Médicas Horacio Almeida;10,5111522;-66,9144189;;Hospital;Venezuela;Región Capital;;;;;
+59;IVSS Hospital Dr, Ricardo Baquero González;10,5133646;-66,94249;;Hospital;Venezuela;Región Capital;;;;;
+60;IVSS Hospital Pediátrico Dr, Elías Toro;10,5057543;-66,9469574;;Hospital;Venezuela;Región Capital;;;;;
+61;IVSS Los Dos Caminos;10,4967578;-66,8304883;;Hospital;Venezuela;Región Capital;;;;;
+62;IVSS Los Ruices;10,4821757;-66,8300996;;Hospital;Venezuela;Región Capital;;;;;
+63;JM DE LOS RIOS (HOSP DE NIÑOS);10,50696;-66,8996;Hospital de Niños J. M. de los Ríos;Hospital pediátrico;Venezuela;Región Capital;Distrito Capital;Libertador;San Bernardino;Av. Vollmer, Caracas 1010;N/A
+64;Maternidad Concepción Palacios;10,4952295;-66,9315153;;Hospital;Venezuela;Región Capital;;;;;
+65;Maternidad Herrera Vega;10,4859159;-66,9757464;;Hospital;Venezuela;Región Capital;;;;;
+66;Maternidad Santa Ana;10,51531;-66,9031544;;Hospital;Venezuela;Región Capital;;;;;
+67;Módulo C,D,I, Los Dos Caminos;10,4957346;-66,8351633;;Hospital;Venezuela;Región Capital;;;;;
+68;Módulo de La California Sur;10,4761299;-66,8218971;;Hospital;Venezuela;Región Capital;;;;;
+69;Módulo de La Carlota;10,4925198;-66,8341786;;Hospital;Venezuela;Región Capital;;;;;
+70;Módulo de La Hacienda;10,4357717;-66,9587921;;Hospital;Venezuela;Región Capital;;;;;
+71;Módulo de La Trinidad;10,434151;-66,8750545;;Hospital;Venezuela;Región Capital;;;;;
+72;Módulo de la UD-4;10,4284025;-66,9762087;;Hospital;Venezuela;Región Capital;;;;;
+73;Módulo de la UD-6;10,4353808;-66,9607792;;Hospital;Venezuela;Región Capital;;;;;
+74;Módulo de Las Adjuntas;10,4259542;-67,0148607;;Hospital;Venezuela;Región Capital;;;;;
+75;Módulo de Montalbán III;10,4712676;-66,963245;;Hospital;Venezuela;Región Capital;;;;;
+76;Módulo de Petare;10,4789;-66,812837;;Hospital;Venezuela;Región Capital;;;;;
+77;Módulo de Piedra Azul;10,4310581;-66,8751653;;Hospital;Venezuela;Región Capital;;;;;
+78;Módulo de Río de Janeiro;10,475336;-66,8101165;;Hospital;Venezuela;Región Capital;;;;;
+79;Módulo de Simón Rodríguez;10,50976;-66,8886255;;Hospital;Venezuela;Región Capital;;;;;
+80;Módulo de UD-1;10,4315802;-66,9898866;;Hospital;Venezuela;Región Capital;;;;;
+81;Módulo José Miranda;10,4672413;-66,9774471;;Hospital;Venezuela;Región Capital;;;;;
+82;Módulo Salvador Allende;10,4816732;-66,8517197;;Hospital;Venezuela;Región Capital;;;;;
+83;Unidad Sanitaria del Sur;10,4758391;-66,9174671;;Hospital;Venezuela;Región Capital;;;;;
+84;Urológico San Román;10,4721027;-66,8557664;;Hospital;Venezuela;Región Capital;;;;;
